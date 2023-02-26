@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author afism
+ *
+ */
+module EmailApplication {
+}
